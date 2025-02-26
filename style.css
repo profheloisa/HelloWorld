@@ -1,29 +1,29 @@
-h2{
-    color:purple;
+h2 {
+    color: rgb(14, 214, 198);
 }
 
 body {
-    background-color: blue;
+    background-color: rgb(172, 119, 255);
     color: white;
     font-family: Arial;
     text-align: center;
 }
 
-header{
-    border-bottom: 4px dotted white;
-    }
+header {
+    border-bottom: 4px dotted rgb(14, 214, 198);
+}
 
 
-footer{
-    border-bottom: 4px dotted white;
-    }
+footer {
+    border-bottom: 4px dotted rgb(14, 214, 198);
+}
 
 
-    #nome-usuário { 
-        font-weight: bold; 
-     }
+#nome-usuário {
+    font-weight: bold;
+}
 
 
-     .texto-inglês{ 
-        font-style: italic;
-      }
+.texto-inglês {
+    font-style: italic;
+}
